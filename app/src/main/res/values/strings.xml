@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyMemories</string>
+    <string name="titulo">Título</string>
+    <string name="capturar">Capturar</string>
+    <string name="foto">Foto</string>
+    <string name="video">Vídeo</string>
 </resources>
